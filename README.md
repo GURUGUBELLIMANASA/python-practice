@@ -26,6 +26,3 @@ To improve my Python skills and build a strong foundation for software and IT ro
 ## 👩‍💻 Author
 *Manasa Gurugubelli*  
 BTech CSE Student (2028)
-
----
-⭐ Feel free to explore and learn!
