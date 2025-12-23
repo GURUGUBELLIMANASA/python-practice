@@ -3,7 +3,7 @@ FILE_NAME= "student.txt"
 def add_student();
 roll = input("enter the student roll no.")
 name= input("enter student name")
-branch =input("enter student branch")
+Branch =input("enter student branch")
 student = {"Roll": roll,"Name":name, "Branch": branch}
 students.append(student)
 
