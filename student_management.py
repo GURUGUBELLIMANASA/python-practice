@@ -37,6 +37,34 @@ def main():
         print("invalid choice, try again")
 main()
 
+# 🎓 Student Management System (Python)
+
+This is a **simple Student Management System** built using **Python**.  
+It is a **console-based project** suitable for beginners who are learning Python basics like lists, dictionaries, functions, and loops.
+
+---
+
+## 📌 Features
+- ➕ Add student details (Roll Number, Name, Branch)
+- 📄 View all added students
+- 🔁 Menu-driven program
+- ❌ Exit option
+
+---
+
+## 🛠️ Technologies Used
+- **Python 3**
+- Basic concepts:
+  - Lists
+  - Dictionaries
+  - Functions
+  - While loop
+  - Conditional statements
+
+---
+
+## 📂 Project Structure
+
 
 
 
